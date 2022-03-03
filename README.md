@@ -2,7 +2,7 @@
 
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomArcherMsft&theme=dark&show_icons=true&count_private=true)
 
-- 🔭 I’m Senior Content Developer currently working on open-source DevOps products for Azure.
+- 🔭 I’m a Senior Content Developer currently working on open-source DevOps products for Azure.
 - 💬 Ask me about Terraform or Ansible - or Content Development in general.
 - 🌱 I’m currently learning Power BI and R
 - 👯 I’m looking to collaborate on anything regarding Data Analytics.
