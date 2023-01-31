@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning Power BI and R
 - 👯 I’m looking to collaborate on anything regarding Data Analytics.
 - 📫 How to connect with me: [LinkedIn](https://www.linkedin.com/in/tom-archer-content-development/)
-- ⚡ Fun fact: I know 3 languages (English, Spanish, Sign Language) and I'm learning Turkish (my birthplace).
+- ⚡ Fun fact: I know 3 languages (English, Spanish, Sign Language).
